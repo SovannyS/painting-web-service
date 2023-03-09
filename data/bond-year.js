@@ -39,7 +39,7 @@
           "Cost": "$210 million",
           "Year": 2015,
           "Note": "This painting was created in 1892",
-          "Image": "nafea-faa-Ipoipo.jpg"
+          "Image": "nafea-faa-ipoipo.jpg"
         },
         {
           "Title": "Portraits of Maerten Soolmans and Oopjen Coppit",
